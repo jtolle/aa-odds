@@ -18,3 +18,4 @@ Plans:
  - Calc'd version for land battles using the same basic algorithm as before
  - Markov Chain based algorithm which would probably make encoding new rules easier...
     - ...should be no problem on a modern computer
+ - Then think about how to handle real rules, including ones from newer editions
