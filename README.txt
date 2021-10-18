@@ -8,7 +8,7 @@ Goals:
 Initial code is just playing with toy cases. None of it is likely to stay.
 
 What's here now:
- - Simplest case you can run in your head - 2 infantry vs. 1 infantry, calc'd and sim'd
+ - Simplest case you can't run in your head - 2 infantry vs. 1 infantry, calc'd and sim'd
  - Sim for slightly more complex case of land battles including "new edition" artillery rules
  - Ancient calculator I wrote in 1995 to first learn C++...
     - ...it really was the first code I wrote after Hello World and you can tell
